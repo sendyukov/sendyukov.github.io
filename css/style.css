@@ -59,8 +59,8 @@ h6 {font-size: 0.8em; }
 #mainmenu {float: center; width: 100%; font-size: 12pt; line-height: normal; border-bottom: 2px solid #404040; overflow: hidden; }
 #mainmenu ul {float: center; padding: 10px 10px 0 0px; list-style: none; margin: 0 10px; }
 #mainmenu li {display: inline; margin: 0; padding: 0; }
-#mainmenu li a {float: left; background: #fff url(http://www.sendyukov.ru/img/left.png) no-repeat left top; margin: 0; padding: 0 0 0 6px; text-decoration: none; margin-left: 1px; font-weight: bold; }
-#mainmenu li a span {float: left; display: block; background: url(http://www.sendyukov.ru/img/right.png) no-repeat right top; padding: 6px 15px 4px 6px; margin-right: 2px; color: #fff; }
+#mainmenu li a {float: left; background: #fff url(http://sendyukov.ru/img/left.png) no-repeat left top; margin: 0; padding: 0 0 0 6px; text-decoration: none; margin-left: 1px; font-weight: bold; }
+#mainmenu li a span {float: left; display: block; background: url(http://sendyukov.ru/img/right.png) no-repeat right top; padding: 6px 15px 4px 6px; margin-right: 2px; color: #fff; }
 
 /* End IE5-Mac hack */
 #mainmenu li a:hover span {color: #fff; }
